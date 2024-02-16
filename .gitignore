@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+#Ignore key files
+/crime_airflow_docker/dags/support/keys
+
+#Ignore logs files
+/crime_airflow_docker/logs/
